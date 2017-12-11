@@ -17,5 +17,10 @@
         android:layout_height="wrap_content"
         android:onClick="onStartRun"
         android:text="点击运行以上的命令" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onAddWaterMark"
+        android:text="添加水印" />
 
 </LinearLayout>
